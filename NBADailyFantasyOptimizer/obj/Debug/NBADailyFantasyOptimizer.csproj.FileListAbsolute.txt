@@ -1,0 +1,6 @@
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\NBADailyFantasyOptimizer\bin\Debug\NBADailyFantasyOptimizer.exe.config
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\NBADailyFantasyOptimizer\bin\Debug\NBADailyFantasyOptimizer.exe
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\NBADailyFantasyOptimizer\bin\Debug\NBADailyFantasyOptimizer.pdb
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\NBADailyFantasyOptimizer\obj\Debug\NBADailyFantasyOptimizer.exe
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\NBADailyFantasyOptimizer\obj\Debug\NBADailyFantasyOptimizer.pdb
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\NBADailyFantasyOptimizer\obj\Debug\NBADailyFantasyOptimizer.csprojResolveAssemblyReference.cache
