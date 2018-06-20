@@ -1,0 +1,15 @@
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\bin\Debug\netcoreapp2.0\MLTestCore.deps.json
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\bin\Debug\netcoreapp2.0\MLTestCore.runtimeconfig.json
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\bin\Debug\netcoreapp2.0\MLTestCore.runtimeconfig.dev.json
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\bin\Debug\netcoreapp2.0\MLTestCore.dll
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\bin\Debug\netcoreapp2.0\MLTestCore.pdb
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\bin\Debug\netcoreapp2.0\NBADailyFantasyOptimizer.exe
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\bin\Debug\netcoreapp2.0\NBADailyFantasyOptimizer.pdb
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\bin\Debug\netcoreapp2.0\NBADailyFantasyOptimizer.exe.config
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\obj\Debug\netcoreapp2.0\MLTestCore.csprojAssemblyReference.cache
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\obj\Debug\netcoreapp2.0\MLTestCore.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\obj\Debug\netcoreapp2.0\MLTestCore.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\obj\Debug\netcoreapp2.0\MLTestCore.AssemblyInfo.cs
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\obj\Debug\netcoreapp2.0\MLTestCore.csproj.CopyComplete
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\obj\Debug\netcoreapp2.0\MLTestCore.dll
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLTestCore\obj\Debug\netcoreapp2.0\MLTestCore.pdb

@@ -1,0 +1,17 @@
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\MLGeneticAlgorithm.deps.json
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\MLGeneticAlgorithm.runtimeconfig.json
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\MLGeneticAlgorithm.runtimeconfig.dev.json
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\MLGeneticAlgorithm.dll
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\MLGeneticAlgorithm.pdb
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\MLTestCore.dll
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\NBADailyFantasyOptimizer.exe
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\MLTestCore.pdb
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\NBADailyFantasyOptimizer.pdb
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\bin\Debug\netcoreapp2.0\NBADailyFantasyOptimizer.exe.config
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\obj\Debug\netcoreapp2.0\MLGeneticAlgorithm.csprojAssemblyReference.cache
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\obj\Debug\netcoreapp2.0\MLGeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\obj\Debug\netcoreapp2.0\MLGeneticAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\obj\Debug\netcoreapp2.0\MLGeneticAlgorithm.AssemblyInfo.cs
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\obj\Debug\netcoreapp2.0\MLGeneticAlgorithm.csproj.CopyComplete
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\obj\Debug\netcoreapp2.0\MLGeneticAlgorithm.dll
+C:\Users\Jake\Desktop\NBADailyFantasyOptimizer\MLGeneticAlgorithm\obj\Debug\netcoreapp2.0\MLGeneticAlgorithm.pdb
